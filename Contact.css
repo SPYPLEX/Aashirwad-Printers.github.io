@@ -5,9 +5,9 @@ padding:0px;
 
 
 body{
- background-image: url('image.jpg');
+ background-image: url('images/texture.jpg');
   background-size: cover;
- background-repeat:repeat;
+ background-repeat:no-repeat;
   background-position: center;
   height: 100vh; /* or fixed height */
   width: 100%;
