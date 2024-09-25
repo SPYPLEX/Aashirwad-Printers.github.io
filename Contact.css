@@ -5,9 +5,11 @@ padding:0px;
 
 
 body{
-background-image:url("images/texture.jpg");
-backgroud-size:cover;
-  background-attachment:fixed;
+ background-image: url('image.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* or fixed height */
+  width: 100%;
 }
 
 .box{
